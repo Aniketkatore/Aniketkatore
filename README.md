@@ -4,7 +4,7 @@
 
 💻 Passionate Software Developer with a strong interest in building scalable and efficient applications.
 
-🌱 Currently working at Interglade IT Services and IT Consulting as a Junior Software Developer.
+🌱 Currently working at Web Crypt Technology as a Junior Software Developer.
 
 🛠️ Skilled in React.js, React Native, TypeScript, Tailwind CSS, and Full-Stack Development.
 
